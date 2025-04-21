@@ -10,3 +10,6 @@ A concise description of the project.
 - [Contributing](#contributing)
 - [License](#license)
 - [Maintainer](#maintainer)
+
+## Introduction
+This project aims to solve [problem statement] by providing [solution description]. It is designed for [target audience].
