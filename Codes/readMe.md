@@ -18,3 +18,9 @@ This project aims to solve [problem statement] by providing [solution descriptio
 - Feature 1: Detailed explanation.
 - Feature 2: Detailed explanation.
 - Feature 3: Detailed explanation.
+
+## Installation
+
+### Prerequisites
+- Python 3.8+
+- pip
