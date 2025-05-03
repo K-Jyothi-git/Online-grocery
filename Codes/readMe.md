@@ -40,3 +40,15 @@ This project aims to solve [problem statement] by providing [solution descriptio
    ```bash
    pip install -r requirements.txt
    ```
+
+
+## Usage
+To run the main script:
+```bash
+python main.py --input data.csv --output results.json
+```
+Example:
+```bash
+python main.py --help
+```
+Further usage details and examples can be found in the `docs/` directory.
