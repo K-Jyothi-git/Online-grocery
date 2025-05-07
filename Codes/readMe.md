@@ -52,3 +52,11 @@ Example:
 python main.py --help
 ```
 Further usage details and examples can be found in the `docs/` directory.
+
+## Contributing
+We welcome contributions! Please see `CONTRIBUTING.md` for details on how to get started.
+
+## License
+This project is licensed under the MIT License - see the `LICENSE` file for details.
+
+---
