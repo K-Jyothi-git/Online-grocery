@@ -60,3 +60,14 @@ We welcome contributions! Please see `CONTRIBUTING.md` for details on how to get
 This project is licensed under the MIT License - see the `LICENSE` file for details.
 
 ---
+
+## Maintainer
+
+This project is actively maintained by **Jyothi Kalakoti**.
+
+Jyothi is a Data Analyst with a strong foundation in **data analytics, SQL, and Python**, focused on transforming raw data into actionable insights. She has experience working with **data visualization tools such as Power BI and Tableau**, and is skilled in data analysis, reporting, and building analytical solutions to support data-driven decision-making.
+
+Her technical expertise includes **SQL, Python (Pandas, NumPy, Matplotlib), data visualization, and exploratory data analysis (EDA)**. She is passionate about solving real-world business problems through structured data analysis and clear reporting.
+
+### Connect with Jyothi
+- 📧 Email: Kalakotijyothi01@gmail.com
