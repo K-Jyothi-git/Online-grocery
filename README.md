@@ -15,3 +15,14 @@ Using the Instacart Public Datasets, we are focusing on solving following proble
 *	Build a recommendation model which provided recommendations to the user based on his/her customer segment and the project associations with the products already placed in the cart using Association Rule Mining (Apriori Algorithm) 
 
 Keywords - Recommendation; Market Basket Analysis; Machine Learning; Light GBM; XGBoost; K-Means
+
+## Maintainer
+
+This project is actively maintained by **Jyothi Kalakoti**.
+
+Jyothi is a Data Analyst with a strong foundation in **data analytics, SQL, and Python**, focused on transforming raw data into actionable insights. She has experience working with **data visualization tools such as Power BI and Tableau**, and is skilled in data analysis, reporting, and building analytical solutions to support data-driven decision-making.
+
+Her technical expertise includes **SQL, Python (Pandas, NumPy, Matplotlib), data visualization, and exploratory data analysis (EDA)**. She is passionate about solving real-world business problems through structured data analysis and clear reporting.
+
+### Connect with Jyothi
+- 📧 Email: Kalakotijyothi01@gmail.com
