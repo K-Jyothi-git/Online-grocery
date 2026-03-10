@@ -25,4 +25,4 @@ Jyothi is a Data Analyst with a strong foundation in **data analytics, SQL, and 
 Her technical expertise includes **SQL, Python (Pandas, NumPy, Matplotlib), data visualization, and exploratory data analysis (EDA)**. She is passionate about solving real-world business problems through structured data analysis and clear reporting.
 
 ### Connect with Jyothi
-- 📧 Email: Kalakotijyothi01@gmail.com
+- Email: Kalakotijyothi01@gmail.com
